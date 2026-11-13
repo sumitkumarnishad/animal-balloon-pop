@@ -1,0 +1,6 @@
+{
+  "name": "Animal Balloon Pop",
+  "description": "A colorful 9:16 vertical hyper-casual balloon popping game for toddlers and young kids with cute animal balloons, star confetti, and happy Web Audio sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
